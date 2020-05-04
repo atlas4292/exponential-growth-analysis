@@ -1,4 +1,4 @@
-# exponential-growth-analysis
+# An Exponential Growth Analysis
 A visual studio project performing exponential growth analysis
 
 The project report is contained in the root directory
